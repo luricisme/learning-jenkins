@@ -1,2 +1,2 @@
-# learning-jenkins
+# Learning Jenkins
 Learning jenkins
